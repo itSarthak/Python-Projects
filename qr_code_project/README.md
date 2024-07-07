@@ -27,7 +27,7 @@ qr_code_project/
 1. Clone this repository and open it in VS Code:
 
     ```sh
-    git clone (repo)[https://github.com/itSarthak/Python-Projects/tree/main/qr_code_project]
+    git clone [repo](https://github.com/itSarthak/Python-Projects/tree/main/qr_code_project)
     cd qr_code_project
     code .
     ```
